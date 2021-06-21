@@ -1,6 +1,4 @@
 - 👋 Hi, I’m @HitriLis
-- 👀 I’m interested in js, go, vue 
-- 🌱 I’m currently learning Golang
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
